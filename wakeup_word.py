@@ -4,7 +4,7 @@ import pyaudio
 import pyttsx3
 import time
 
-porcupine = pvporcupine.create(access_key="C5uK9WtG1jSb3ZG33xpQYCmHJuC44TarnubXVkknTNoetxqU+dhWSw==",keywords=['jarvis'])
+porcupine = pvporcupine.create(access_key="porcupine_access_key",keywords=['jarvis'])#Enter your porcupine access key
 pa = pyaudio.PyAudio()
 audio_stream = pa.open(
     rate=porcupine.sample_rate,
