@@ -1,1 +1,1 @@
-# desktop-assistant
+# firefox-assistant
