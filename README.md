@@ -4,5 +4,5 @@
 ## How to use :-
 * Put your openai api key in `generate_code.py`
 * Put your porcupine access key in `sr.py`
-* Install all the required librarirs (pyaudio,pyautogui, speechrecognition, openai, etc)
+* Install all the required libraries (pyaudio,pyautogui, speechrecognition, openai, etc)
 * Run `main.py`
